@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+.title {
+  font: 24px Arial bold;
+}
+.description {
+  font-size: 20px;
+  font-style: inherit;
+}
+
+.link {
+  color: lightgray;
+}
+.pic {
+  border-radius: 25px;
+}
+
+.button {
+  color: rgb(0, 213, 255);
+}

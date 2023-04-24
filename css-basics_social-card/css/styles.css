@@ -18,4 +18,9 @@
 
 .button {
   color: rgb(0, 213, 255);
+  background-color: none;
+}
+
+.article {
+  border-radius: 20px;
 }
